@@ -1,10 +1,4 @@
-/* Template Name: Cristino - Responsive Personal Template
-   Author: Shreethemes
-   Email: shreethemes@gmail.com
-   Website: http://www.shreethemes.in
-   Version: 1.9.0
-   Created: May 2020
-   File Description: Main JS file of the template
+/* File Description: Main JS file of the template
 */
 
 /************************/
